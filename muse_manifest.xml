@@ -1,0 +1,62 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hubacani.com" resolutions="1x" timestamp="1510669497206">
+  <folder name="css">
+    <file name="site_global.css" crc="484492074"/>
+    <file name="master_a-master.css" crc="9664597" ref="inquire:people:work:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="336226433" ref="inquire:people:work:index"/>
+    <file name="inquire.css" crc="419682445" ref="inquire"/>
+    <file name="nomq_inquire.css" crc="4054331035" ref="inquire"/>
+    <file name="people.css" crc="419682445" ref="people"/>
+    <file name="nomq_people.css" crc="4054331035" ref="people"/>
+    <file name="work.css" crc="419682445" ref="work"/>
+    <file name="nomq_work.css" crc="4054331035" ref="work"/>
+    <file name="index.css" crc="459722572" ref="index"/>
+    <file name="nomq_index.css" crc="143333178" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:work:people:inquire"/>
+    <file name="museutils.js" crc="3803043152" ref="index:work:people:inquire"/>
+    <file name="whatinput.js" crc="86476730" ref="index:work:people:inquire"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:work:people:inquire"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:work:people:inquire"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:work:people:inquire"/>
+    <file name="webpro.js" crc="242022427" ref="index:work:people:inquire"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:work:people:inquire"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:work:people:inquire"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:work:people:inquire"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:work:people:inquire"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:work:people:inquire"/>
+    <file name="require.js" crc="4157109226" ref="index:work:people:inquire"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:work:people:inquire"/>
+    <file name="open-blank-notebook-black-amp-white.jpg" crc="273673874" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artboard 1 copy 3@2x.png" crc="3831214347" seo="true" ref="index:work:people:inquire">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="inquire" alt=""/>
+      <caption webpage="inquire" alt=""/>
+      <caption webpage="inquire" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="open-blank-notebook-black-amp-white-crop-u448.jpg" crc="338434287" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="35012871" seo="true" mt="1510220403647" redirect="true"/>
+  <file name="work.html" crc="3877687964" seo="true" mt="1510220401099" redirect="true"/>
+  <file name="people.html" crc="247074394" seo="true" mt="1510220401099" redirect="true"/>
+  <file name="inquire.html" crc="499217796" seo="true" mt="1510220401099" redirect="true"/>
+</manifest>
