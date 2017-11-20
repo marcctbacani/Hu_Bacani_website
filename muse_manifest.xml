@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hubacani.com" resolutions="1x" timestamp="1510931690237">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hubacani.com" resolutions="1x" timestamp="1511169430939">
   <folder name="css">
     <file name="site_global.css" crc="484492074"/>
-    <file name="inquire.css" crc="150315237" ref="inquire"/>
-    <file name="nomq_inquire.css" crc="4011440262" ref="inquire"/>
-    <file name="people.css" crc="150315237" ref="people"/>
-    <file name="nomq_people.css" crc="4011440262" ref="people"/>
-    <file name="work.css" crc="150315237" ref="work"/>
-    <file name="nomq_work.css" crc="4011440262" ref="work"/>
-    <file name="index.css" crc="487026240" ref="index"/>
-    <file name="nomq_index.css" crc="377767574" ref="index"/>
-    <file name="master_a-master.css" crc="4043431513" ref="work:inquire:index:people"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="work:inquire:index:people"/>
+    <file name="inquire.css" crc="3909995989" ref="inquire"/>
+    <file name="nomq_inquire.css" crc="165256369" ref="inquire"/>
+    <file name="people.css" crc="4216938915" ref="people"/>
+    <file name="nomq_people.css" crc="210046174" ref="people"/>
+    <file name="work.css" crc="535419728" ref="work"/>
+    <file name="nomq_work.css" crc="299174914" ref="work"/>
+    <file name="index.css" crc="215062026" ref="index"/>
+    <file name="nomq_index.css" crc="4134264901" ref="index"/>
+    <file name="master_a-master.css" crc="4001427878" ref="work:inquire:people:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3907274416" ref="work:inquire:people:index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:work:people:inquire"/>
@@ -21,8 +21,13 @@
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index:work:people:inquire"/>
     <file name="require.js" crc="4157109226" ref="index:work:people:inquire"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="inquire:index:work:people"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="inquire"/>
+    <file name="form_check.php" crc="147359589" ref="inquire"/>
+    <file name="form_throttle.php" crc="93986428" ref="inquire"/>
+    <file name="form_process.php" crc="3851993751" ref="inquire"/>
+    <file name="form-u44266.php" crc="4144673378" ref="inquire"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index:work:people:inquire"/>
-    <file name="webpro.js" crc="242022427" ref="index:work:people:inquire"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index:work:people:inquire"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index:work:people:inquire"/>
     <file name="touchswipe.js" crc="4066113679" ref="index:work:people:inquire"/>
@@ -32,11 +37,8 @@
     <file name="blank.gif" crc="4208392903" ref="index:work:people:inquire"/>
     <file name="open-blank-notebook-black-amp-white.jpg" crc="273673874" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="icons-01.png" crc="326049614" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="icons-01.png" crc="3889134361" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -45,8 +47,7 @@
     <file name="pexels-photo-147409-crop-u26717.jpg" crc="83402746" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icons-04.png" crc="3934655935" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="icons-04.png" crc="3955697217" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -54,25 +55,20 @@
     </file>
     <file name="denys-nevozhai-351730 (1).jpg" crc="4247483946" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="icons-02.png" crc="396361154" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="icons-02.png" crc="3979708197" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icons-08.png" crc="512183696" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="icons-08.png" crc="313116628" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icons-05.png" crc="168571531" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="icons-05.png" crc="514737648" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -81,22 +77,19 @@
     <file name="wechat-crop-u31537.png" crc="46629587" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icons-07.png" crc="163112075" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icons-03.png" crc="3919551376" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="icons-07.png" crc="4094984554" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icons-06.png" crc="4110433925" seo="true" ref="index">
+    <file name="icons-03.png" crc="283693055" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons-06.png" crc="3877728364" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -107,12 +100,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="rikki-chan-122581-crop-u28272.jpg" crc="3924603254" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="rikki-chan-122581-crop-u28272.jpg" crc="3764450689" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pexels-photo-397009-crop-u24109.jpg" crc="4078488746" seo="true" ref="index">
+    <file name="pexels-photo-397009-crop-u24109.jpg" crc="4256015703" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="open-blank-notebook-black-amp-white1438x719.jpg" crc="125540584" seo="true" ref="index">
@@ -121,16 +113,13 @@
     <file name="pexels-photo-147409-crop-u267172.jpg" crc="384019861" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="denys-nevozhai-351730 (1)1280x853.jpg" crc="3954589877" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="wechat-crop-u315372.png" crc="361302906" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="rikki-chan-122581-crop-u282722.jpg" crc="68323915" seo="true" ref="index">
+    <file name="rikki-chan-122581-crop-u282722.jpg" crc="4190131142" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pexels-photo-397009-crop-u241092.jpg" crc="4284080383" seo="true" ref="index">
+    <file name="pexels-photo-397009-crop-u241092.jpg" crc="50597367" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="open-blank-notebook-black-amp-white1025x532.jpg" crc="96087618" seo="true" ref="index">
@@ -142,59 +131,163 @@
     <file name="denys-nevozhai-351730 (1)1025x684.jpg" crc="105079139" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wechat-crop-u315373.png" crc="46629587" seo="true" ref="index">
+    <file name="wechat-crop-u315373.png" crc="4241230928" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="rikki-chan-122581-crop-u282723.jpg" crc="403197683" seo="true" ref="index">
+    <file name="rikki-chan-122581-crop-u282723.jpg" crc="3969197516" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pexels-photo-397009-crop-u241093.jpg" crc="154091482" seo="true" ref="index">
+    <file name="pexels-photo-397009-crop-u241093.jpg" crc="34433240" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pexels-photo-147409.jpg" crc="41865212" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wechat-crop-u315374.png" crc="46629587" seo="true" ref="index">
+    <file name="wechat-crop-u315374.png" crc="4241230928" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="rikki-chan-122581-crop-u282724.jpg" crc="403197683" seo="true" ref="index">
+    <file name="rikki-chan-122581-crop-u282724.jpg" crc="4099709331" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pexels-photo-3970091589x1192.jpg" crc="3942612940" seo="true" ref="index">
+    <file name="rikki-chan-122581.jpg" crc="4182943601" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wechat-crop-u315375.png" crc="46629587" seo="true" ref="index">
+    <file name="denys-nevozhai-351730 (1)1283x855.jpg" crc="4110777683" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="rikki-chan-122581-crop-u282725.jpg" crc="403197683" seo="true" ref="index">
+    <file name="open-blank-notebook-black-amp-white-crop-u448.jpg" crc="228634016" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="pexels-photo-397009897x673.jpg" crc="231542295" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pexels-photo-147409-crop-u267174.jpg" crc="4151023128" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="denys-nevozhai-351730 (1)-crop-u26861.jpg" crc="4245465984" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="allef-vinicius-255627-crop-u46255.jpg" crc="472935321" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="allef-vinicius-255627-crop-u46271.jpg" crc="472935321" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="img_9809-crop-u46315.jpg" crc="414669639" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="allef-vinicius-255627-crop-u46343.jpg" crc="472935321" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="allef-vinicius-255627-crop-u46293.jpg" crc="472935321" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="allef-vinicius-255627-crop-u46365.jpg" crc="472935321" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="logo-crop-u46413.png" crc="218348027" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="allef-vinicius-255627-crop-u462552.jpg" crc="472935321" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="allef-vinicius-255627-crop-u462712.jpg" crc="472935321" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="img_9809-crop-u463152.jpg" crc="414669639" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="allef-vinicius-255627-crop-u463432.jpg" crc="472935321" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="allef-vinicius-255627-crop-u462932.jpg" crc="472935321" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="allef-vinicius-255627-crop-u463652.jpg" crc="472935321" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="logo-crop-u464132.png" crc="218348027" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="allef-vinicius-255627-crop-u462553.jpg" crc="472935321" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="allef-vinicius-255627-crop-u462713.jpg" crc="472935321" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="img_9809-crop-u463153.jpg" crc="414669639" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="allef-vinicius-255627-crop-u463433.jpg" crc="472935321" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="allef-vinicius-255627-crop-u462933.jpg" crc="472935321" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="allef-vinicius-255627-crop-u463653.jpg" crc="472935321" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="logo-crop-u464133.png" crc="218348027" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="allef-vinicius-255627-crop-u462554.jpg" crc="472935321" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="img_9809-crop-u463154.jpg" crc="414669639" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="allef-vinicius-255627-crop-u462714.jpg" crc="472935321" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="allef-vinicius-255627-crop-u463434.jpg" crc="472935321" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="allef-vinicius-255627-crop-u462934.jpg" crc="472935321" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="allef-vinicius-255627-crop-u463654.jpg" crc="472935321" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="logo-crop-u464134.png" crc="218348027" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="radiobuttonunchecked.png" crc="3976871150" ref="inquire">
+      <caption webpage="inquire" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedrollover.png" crc="4276313674" ref="inquire">
+      <caption webpage="inquire" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedmousedown.png" crc="54863585" ref="inquire">
+      <caption webpage="inquire" alt=""/>
+    </file>
+    <file name="radiobuttonchecked.png" crc="4193302265" ref="inquire">
+      <caption webpage="inquire" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedrollover.png" crc="88928956" ref="inquire">
+      <caption webpage="inquire" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedmousedown.png" crc="4280357799" ref="inquire">
+      <caption webpage="inquire" alt=""/>
     </file>
     <file name="artboard 1 copy 3.png" crc="4218153150" seo="true" ref="index:work:people:inquire">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="inquire" alt=""/>
       <caption webpage="inquire" alt=""/>
       <caption webpage="inquire" alt=""/>
       <caption webpage="inquire" alt=""/>
-      <caption webpage="inquire" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
     </file>
-    <file name="noun_1144821_ffffff.png" crc="3991771194" seo="true" ref="index:work:people:inquire">
-      <caption webpage="index" alt=""/>
+    <file name="noun_1144821_ffffff.png" crc="4102341279" seo="true" ref="index:work:people:inquire">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -203,21 +296,18 @@
       <caption webpage="inquire" alt=""/>
       <caption webpage="inquire" alt=""/>
       <caption webpage="inquire" alt=""/>
-      <caption webpage="inquire" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4007742648" seo="true" mt="1510931668892" redirect="true"/>
-  <file name="work.html" crc="3861633253" seo="true" mt="1510931668892" redirect="true"/>
-  <file name="people.html" crc="66962961" seo="true" mt="1510931668892" redirect="true"/>
-  <file name="inquire.html" crc="94894868" seo="true" mt="1510931668892" redirect="true"/>
+  <file name="index.html" crc="110207213" seo="true" mt="1511169401020" redirect="true"/>
+  <file name="work.html" crc="3775180205" seo="true" mt="1511169401020" redirect="true"/>
+  <file name="people.html" crc="43559796" seo="true" mt="1511169401020" redirect="true"/>
+  <file name="inquire.html" crc="70204580" seo="true" mt="1511169401020" redirect="true"/>
 </manifest>
