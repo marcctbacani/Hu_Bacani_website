@@ -61,7 +61,7 @@ $form = array(
 		'custom_U44517' => array(
 			'order' => 4,
 			'type' => 'string',
-			'label' => 'Website',
+			'label' => 'Website (If you already have one)',
 			'required' => false,
 			'errors' => array(
 			)

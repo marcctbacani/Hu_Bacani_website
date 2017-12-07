@@ -1,41 +1,48 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hubacani.com" resolutions="1x" timestamp="1511169430939">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hubacani.com" resolutions="1x" timestamp="1512654427913">
   <folder name="css">
-    <file name="site_global.css" crc="484492074"/>
-    <file name="inquire.css" crc="3909995989" ref="inquire"/>
-    <file name="nomq_inquire.css" crc="165256369" ref="inquire"/>
-    <file name="people.css" crc="4216938915" ref="people"/>
-    <file name="nomq_people.css" crc="210046174" ref="people"/>
-    <file name="work.css" crc="535419728" ref="work"/>
-    <file name="nomq_work.css" crc="299174914" ref="work"/>
-    <file name="index.css" crc="215062026" ref="index"/>
-    <file name="nomq_index.css" crc="4134264901" ref="index"/>
-    <file name="master_a-master.css" crc="4001427878" ref="work:inquire:people:index"/>
-    <file name="nomq_preview_master_a-master.css" crc="3907274416" ref="work:inquire:people:index"/>
+    <file name="site_global.css" crc="405849985"/>
+    <file name="inquire.css" crc="4149700324" ref="inquire"/>
+    <file name="nomq_inquire.css" crc="4195000765" ref="inquire"/>
+    <file name="people.css" crc="12899352" ref="people"/>
+    <file name="nomq_people.css" crc="488703148" ref="people"/>
+    <file name="work.css" crc="4126743393" ref="work"/>
+    <file name="nomq_work.css" crc="4063606567" ref="work"/>
+    <file name="index.css" crc="404883599" ref="index"/>
+    <file name="nomq_index.css" crc="4210864069" ref="index"/>
+    <file name="ozmo.css" crc="4176434875" ref="ozmo"/>
+    <file name="nomq_ozmo.css" crc="100518749" ref="ozmo"/>
+    <file name="master_b-master-_scrowl-menu_.css" crc="3834055776" ref="ozmo:work:inquire"/>
+    <file name="nomq_preview_master_b-master-_scrowl-menu_.css" crc="270118419" ref="ozmo:work:inquire"/>
+    <file name="master_a-master.css" crc="309433652" ref="people:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="524054902" ref="people:index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:work:people:inquire"/>
-    <file name="museutils.js" crc="3803043152" ref="index:work:people:inquire"/>
-    <file name="whatinput.js" crc="86476730" ref="index:work:people:inquire"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:work:people:inquire"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:work:people:inquire"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:work:people:inquire"/>
-    <file name="require.js" crc="4157109226" ref="index:work:people:inquire"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
-    <file name="webpro.js" crc="242022427" ref="inquire:index:work:people"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:work:people:inquire:ozmo"/>
+    <file name="museutils.js" crc="3803043152" ref="index:work:people:inquire:ozmo"/>
+    <file name="whatinput.js" crc="86476730" ref="index:work:people:inquire:ozmo"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:work:people:inquire:ozmo"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:work:people:inquire:ozmo"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:work:people:inquire:ozmo"/>
+    <file name="require.js" crc="4157109226" ref="index:work:people:inquire:ozmo"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:work:inquire:ozmo"/>
+    <file name="webpro.js" crc="242022427" ref="inquire:ozmo:index:work:people"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="inquire"/>
     <file name="form_check.php" crc="147359589" ref="inquire"/>
     <file name="form_throttle.php" crc="93986428" ref="inquire"/>
     <file name="form_process.php" crc="3851993751" ref="inquire"/>
-    <file name="form-u44266.php" crc="4144673378" ref="inquire"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:work:people:inquire"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index:work:people:inquire"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index:work:people:inquire"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index:work:people:inquire"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:work:people:inquire"/>
+    <file name="form-u44266.php" crc="4220936682" ref="inquire"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="ozmo:index:work:people:inquire"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="ozmo:index:work:people:inquire"/>
+    <file name="touchswipe.js" crc="4066113679" ref="ozmo:index:work:people:inquire"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:work:people:inquire:ozmo"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:work:people:inquire:ozmo"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:work:people:inquire"/>
-    <file name="open-blank-notebook-black-amp-white.jpg" crc="273673874" seo="true" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index:work:people:inquire:ozmo"/>
+    <file name="open-blank-notebook-black-amp-white.jpg" crc="371143411" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="icons-01.png" crc="3889134361" seo="true" ref="index">
@@ -44,7 +51,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pexels-photo-147409-crop-u26717.jpg" crc="83402746" seo="true" ref="index">
+    <file name="pexels-photo-147409-crop-u26717.jpg" crc="181321744" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="icons-04.png" crc="3955697217" seo="true" ref="index">
@@ -77,7 +84,7 @@
     <file name="wechat-crop-u31537.png" crc="46629587" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icons-07.png" crc="4094984554" seo="true" ref="index">
+    <file name="icons-07.png" crc="3820859942" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -107,9 +114,6 @@
     <file name="pexels-photo-397009-crop-u24109.jpg" crc="4256015703" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="open-blank-notebook-black-amp-white1438x719.jpg" crc="125540584" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="pexels-photo-147409-crop-u267172.jpg" crc="384019861" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -122,10 +126,7 @@
     <file name="pexels-photo-397009-crop-u241092.jpg" crc="50597367" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="open-blank-notebook-black-amp-white1025x532.jpg" crc="96087618" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pexels-photo-147409-crop-u267173.jpg" crc="363404513" seo="true" ref="index">
+    <file name="pexels-photo-147409-crop-u267173.jpg" crc="4221412241" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="denys-nevozhai-351730 (1)1025x684.jpg" crc="105079139" seo="true" ref="index">
@@ -155,100 +156,37 @@
     <file name="denys-nevozhai-351730 (1)1283x855.jpg" crc="4110777683" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="open-blank-notebook-black-amp-white-crop-u448.jpg" crc="228634016" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="pexels-photo-397009897x673.jpg" crc="231542295" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pexels-photo-147409-crop-u267174.jpg" crc="4151023128" seo="true" ref="index">
+    <file name="pexels-photo-147409-crop-u267174.jpg" crc="119887264" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="denys-nevozhai-351730 (1)-crop-u26861.jpg" crc="4245465984" seo="true" ref="index">
+    <file name="denys-nevozhai-351730 (1)-crop-u26861.jpg" crc="4157610350" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="allef-vinicius-255627-crop-u46255.jpg" crc="472935321" seo="true" ref="work">
+    <file name="img_9809-crop-u46315.jpg" crc="367123546" seo="true" ref="work">
       <caption webpage="work" alt=""/>
     </file>
-    <file name="allef-vinicius-255627-crop-u46271.jpg" crc="472935321" seo="true" ref="work">
+    <file name="logo-crop-u46413.png" crc="178026534" seo="true" ref="work">
       <caption webpage="work" alt=""/>
     </file>
-    <file name="img_9809-crop-u46315.jpg" crc="414669639" seo="true" ref="work">
+    <file name="img_9809-crop-u463152.jpg" crc="52991385" seo="true" ref="work">
       <caption webpage="work" alt=""/>
     </file>
-    <file name="allef-vinicius-255627-crop-u46343.jpg" crc="472935321" seo="true" ref="work">
+    <file name="logo-crop-u464132.png" crc="4199396095" seo="true" ref="work">
       <caption webpage="work" alt=""/>
     </file>
-    <file name="allef-vinicius-255627-crop-u46293.jpg" crc="472935321" seo="true" ref="work">
+    <file name="img_9809-crop-u463153.jpg" crc="4263224235" seo="true" ref="work">
       <caption webpage="work" alt=""/>
     </file>
-    <file name="allef-vinicius-255627-crop-u46365.jpg" crc="472935321" seo="true" ref="work">
+    <file name="logo-crop-u464133.png" crc="316093976" seo="true" ref="work">
       <caption webpage="work" alt=""/>
     </file>
-    <file name="logo-crop-u46413.png" crc="218348027" seo="true" ref="work">
+    <file name="img_9809-crop-u463154.jpg" crc="4035028155" seo="true" ref="work">
       <caption webpage="work" alt=""/>
     </file>
-    <file name="allef-vinicius-255627-crop-u462552.jpg" crc="472935321" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="allef-vinicius-255627-crop-u462712.jpg" crc="472935321" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="img_9809-crop-u463152.jpg" crc="414669639" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="allef-vinicius-255627-crop-u463432.jpg" crc="472935321" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="allef-vinicius-255627-crop-u462932.jpg" crc="472935321" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="allef-vinicius-255627-crop-u463652.jpg" crc="472935321" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="logo-crop-u464132.png" crc="218348027" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="allef-vinicius-255627-crop-u462553.jpg" crc="472935321" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="allef-vinicius-255627-crop-u462713.jpg" crc="472935321" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="img_9809-crop-u463153.jpg" crc="414669639" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="allef-vinicius-255627-crop-u463433.jpg" crc="472935321" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="allef-vinicius-255627-crop-u462933.jpg" crc="472935321" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="allef-vinicius-255627-crop-u463653.jpg" crc="472935321" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="logo-crop-u464133.png" crc="218348027" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="allef-vinicius-255627-crop-u462554.jpg" crc="472935321" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="img_9809-crop-u463154.jpg" crc="414669639" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="allef-vinicius-255627-crop-u462714.jpg" crc="472935321" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="allef-vinicius-255627-crop-u463434.jpg" crc="472935321" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="allef-vinicius-255627-crop-u462934.jpg" crc="472935321" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="allef-vinicius-255627-crop-u463654.jpg" crc="472935321" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="logo-crop-u464134.png" crc="218348027" seo="true" ref="work">
+    <file name="logo-crop-u464134.png" crc="136131670" seo="true" ref="work">
       <caption webpage="work" alt=""/>
     </file>
     <file name="radiobuttonunchecked.png" crc="3976871150" ref="inquire">
@@ -269,45 +207,173 @@
     <file name="radiobuttoncheckedmousedown.png" crc="4280357799" ref="inquire">
       <caption webpage="inquire" alt=""/>
     </file>
-    <file name="artboard 1 copy 3.png" crc="4218153150" seo="true" ref="index:work:people:inquire">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="inquire" alt=""/>
-      <caption webpage="inquire" alt=""/>
-      <caption webpage="inquire" alt=""/>
-      <caption webpage="inquire" alt=""/>
+    <file name="givegab.jpg" crc="3892387147" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="give-gab.svg" crc="3768814876" seo="true" ref="work">
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
+    </file>
+    <file name="give gab_poster_.png" crc="375596495" ref="work"/>
+    <file name="feiy hero.jpg" crc="3879262645" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="feiy-logo-8b7c2236af2e8d82817815d5c74c96cedf3f17fa342831e035c27e4de3028f97.svg" crc="3881663599" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="feiy-logo-8b7c2236af2e8d82817815d5c74c96cedf3f17fa342831e035c27e4de3028f97_poster_.png" crc="518566937" ref="work"/>
+    <file name="wikipedia_mini_globe_handheld-crop-u54610.jpg" crc="107074216" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2000px-wikipedia_wordmarksvg.png" crc="4169485304" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="givegab-crop-u46271.jpg" crc="108867979" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="feiy hero-crop-u46293.jpg" crc="93561878" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="wikipedia_mini_globe_handheld-crop-u546102.jpg" crc="184470780" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="givegab-crop-u462712.jpg" crc="303918009" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="feiy hero-crop-u462932.jpg" crc="49572514" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="wikipedia_mini_globe_handheld-crop-u546103.jpg" crc="429016837" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="givegab-crop-u462713.jpg" crc="47408280" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="feiy hero519x216.jpg" crc="247442074" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="wikipedia_mini_globe_handheld-crop-u546104.jpg" crc="3820438209" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="12321366_10205427149708700_3370172918945011778_n-crop-u56045.jpg" crc="270879785" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="dounan.jpg" crc="3971625013" seo="true" ref="people">
       <caption webpage="people" alt=""/>
       <caption webpage="people" alt=""/>
       <caption webpage="people" alt=""/>
       <caption webpage="people" alt=""/>
     </file>
-    <file name="noun_1144821_ffffff.png" crc="4102341279" seo="true" ref="index:work:people:inquire">
+    <file name="12321366_10205427149708700_3370172918945011778_n-crop-u560452.jpg" crc="270879785" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="12321366_10205427149708700_3370172918945011778_n-crop-u560453.jpg" crc="3779394826" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="12321366_10205427149708700_3370172918945011778_n-crop-u560454.jpg" crc="19373207" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="logo320x143.png" crc="3842404886" seo="true" ref="ozmo">
+      <caption webpage="ozmo" alt=""/>
+    </file>
+    <file name="cactus-crop-u54271.jpg" crc="523701976" seo="true" ref="ozmo">
+      <caption webpage="ozmo" alt=""/>
+    </file>
+    <file name="road-crop-u54273.jpg" crc="536749152" seo="true" ref="ozmo">
+      <caption webpage="ozmo" alt=""/>
+    </file>
+    <file name="trees-crop-u54275.jpg" crc="175741516" seo="true" ref="ozmo">
+      <caption webpage="ozmo" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="ozmo"/>
+    <file name="logo.png" crc="3842404886" seo="true" ref="ozmo">
+      <caption webpage="ozmo" alt=""/>
+      <caption webpage="ozmo" alt=""/>
+      <caption webpage="ozmo" alt=""/>
+    </file>
+    <file name="cactus-crop-u542712.jpg" crc="523701976" seo="true" ref="ozmo">
+      <caption webpage="ozmo" alt=""/>
+    </file>
+    <file name="road-crop-u542732.jpg" crc="536749152" seo="true" ref="ozmo">
+      <caption webpage="ozmo" alt=""/>
+    </file>
+    <file name="trees-crop-u542752.jpg" crc="175741516" seo="true" ref="ozmo">
+      <caption webpage="ozmo" alt=""/>
+    </file>
+    <file name="cactus-crop-u542713.jpg" crc="523701976" seo="true" ref="ozmo">
+      <caption webpage="ozmo" alt=""/>
+    </file>
+    <file name="road-crop-u542733.jpg" crc="536749152" seo="true" ref="ozmo">
+      <caption webpage="ozmo" alt=""/>
+    </file>
+    <file name="trees-crop-u542753.jpg" crc="175741516" seo="true" ref="ozmo">
+      <caption webpage="ozmo" alt=""/>
+    </file>
+    <file name="cactus-crop-u542714.jpg" crc="523701976" seo="true" ref="ozmo">
+      <caption webpage="ozmo" alt=""/>
+    </file>
+    <file name="road-crop-u542734.jpg" crc="536749152" seo="true" ref="ozmo">
+      <caption webpage="ozmo" alt=""/>
+    </file>
+    <file name="trees-crop-u542754.jpg" crc="175741516" seo="true" ref="ozmo">
+      <caption webpage="ozmo" alt=""/>
+    </file>
+    <file name="artboard 1 copy 3.png" crc="4218153150" seo="true" ref="index:work:people:inquire:ozmo">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="inquire" alt=""/>
-      <caption webpage="inquire" alt=""/>
-      <caption webpage="inquire" alt=""/>
-      <caption webpage="inquire" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
       <caption webpage="people" alt=""/>
       <caption webpage="people" alt=""/>
       <caption webpage="people" alt=""/>
       <caption webpage="people" alt=""/>
+      <caption webpage="inquire" alt=""/>
+      <caption webpage="inquire" alt=""/>
+      <caption webpage="inquire" alt=""/>
+      <caption webpage="inquire" alt=""/>
+      <caption webpage="ozmo" alt=""/>
+      <caption webpage="ozmo" alt=""/>
+      <caption webpage="ozmo" alt=""/>
+      <caption webpage="ozmo" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="noun_1144821_ffffff.png" crc="4102341279" seo="true" ref="index:work:people:inquire:ozmo">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="inquire" alt=""/>
+      <caption webpage="inquire" alt=""/>
+      <caption webpage="inquire" alt=""/>
+      <caption webpage="inquire" alt=""/>
+      <caption webpage="ozmo" alt=""/>
+      <caption webpage="ozmo" alt=""/>
+      <caption webpage="ozmo" alt=""/>
+      <caption webpage="ozmo" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="110207213" seo="true" mt="1511169401020" redirect="true"/>
-  <file name="work.html" crc="3775180205" seo="true" mt="1511169401020" redirect="true"/>
-  <file name="people.html" crc="43559796" seo="true" mt="1511169401020" redirect="true"/>
-  <file name="inquire.html" crc="70204580" seo="true" mt="1511169401020" redirect="true"/>
+  <file name="index.html" crc="4280371805" seo="true" mt="1512654407552" redirect="true"/>
+  <file name="work.html" crc="3984602995" seo="true" mt="1512654390805" redirect="true"/>
+  <file name="people.html" crc="66814208" seo="true" mt="1512654390797" redirect="true"/>
+  <file name="inquire.html" crc="4002733232" seo="true" mt="1512654390805" redirect="true"/>
+  <file name="ozmo.html" crc="3891442403" seo="true" mt="1512654390805" redirect="true"/>
 </manifest>
