@@ -34,26 +34,26 @@ $form = array(
 		'custom_U44271' => array(
 			'order' => 1,
 			'type' => 'string',
-			'label' => 'Name',
+			'label' => 'Custom:',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'Name\' is required.'
+				'required' => 'Field \'Custom:\' is required.'
 			)
 		),
 		'Email' => array(
 			'order' => 2,
 			'type' => 'email',
-			'label' => 'Email',
+			'label' => 'Custom:',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'Email\' is required.',
-				'format' => 'Field \'Email\' has an invalid email.'
+				'required' => 'Field \'Custom:\' is required.',
+				'format' => 'Field \'Custom:\' has an invalid email.'
 			)
 		),
 		'custom_U44267' => array(
 			'order' => 3,
 			'type' => 'string',
-			'label' => 'Tell us about your company',
+			'label' => 'Custom:',
 			'required' => false,
 			'errors' => array(
 			)
@@ -61,7 +61,7 @@ $form = array(
 		'custom_U44517' => array(
 			'order' => 4,
 			'type' => 'string',
-			'label' => 'Website (If you already have one)',
+			'label' => 'Custom:',
 			'required' => false,
 			'errors' => array(
 			)

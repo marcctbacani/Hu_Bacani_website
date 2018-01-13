@@ -2,23 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://hubacani.com/index.html</loc>
-    <lastmod>2017-12-07</lastmod>
+    <lastmod>2018-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://hubacani.com/images/open-blank-notebook-black-amp-white.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://hubacani.com/images/icons-01.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hubacani.com/images/pexels-photo-147409-crop-u26717.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://hubacani.com/images/icons-04.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hubacani.com/images/denys-nevozhai-351730%20(1).jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://hubacani.com/images/icons-02.png</image:loc>
@@ -48,25 +39,10 @@
       <image:loc>http://hubacani.com/images/rikki-chan-122581-crop-u28272.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hubacani.com/images/pexels-photo-397009-crop-u24109.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hubacani.com/images/pexels-photo-147409-crop-u267172.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://hubacani.com/images/wechat-crop-u315372.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://hubacani.com/images/rikki-chan-122581-crop-u282722.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hubacani.com/images/pexels-photo-397009-crop-u241092.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hubacani.com/images/pexels-photo-147409-crop-u267173.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hubacani.com/images/denys-nevozhai-351730%20(1)1025x684.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://hubacani.com/images/wechat-crop-u315373.png</image:loc>
@@ -75,25 +51,10 @@
       <image:loc>http://hubacani.com/images/rikki-chan-122581-crop-u282723.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hubacani.com/images/pexels-photo-397009-crop-u241093.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://hubacani.com/images/wechat-crop-u315374.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://hubacani.com/images/rikki-chan-122581-crop-u282724.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hubacani.com/images/denys-nevozhai-351730%20(1)1283x855.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hubacani.com/images/pexels-photo-397009897x673.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hubacani.com/images/pexels-photo-147409-crop-u267174.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hubacani.com/images/denys-nevozhai-351730%20(1)-crop-u26861.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://hubacani.com/images/artboard%201%20copy%203.png</image:loc>
@@ -101,10 +62,91 @@
     <image:image>
       <image:loc>http://hubacani.com/images/noun_1144821_ffffff.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/adobestock_107735218%20sin%20rcyle%2096%20drkr-crop-u448.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/adobestock_73349200%20lq.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/adobestock_101498911.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/denys-nevozhai-351730%20small%20dark.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/adobestock_107735218%20sin%20rcyle%2096%20drkr-crop-u4482.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/adobestock_73349200%20lq1163x654.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/denys-nevozhai-351730%20small%20dark1283x855.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/adobestock_107735218%20sin%20rcyle%2096%20drkr-crop-u4483.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/adobestock_73349200%20lq-crop-u24109.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/adobestock_101498911-crop-u26717.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/denys-nevozhai-351730%20small%20dark1025x684.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/adobestock_107735218%20sin%20rcyle%2096%20drkr-crop-u4484.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/adobestock_73349200%20lq-crop-u241092.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/adobestock_101498911-crop-u267172.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/denys-nevozhai-351730%20small%20dark-crop-u26861.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/adobestock_107735218%20sin%20rcyle%2096%20drkr-crop-u4485.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/adobestock_73349200%20lq-crop-u241093.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/adobestock_101498911-crop-u267173.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/denys-nevozhai-351730%20small%20dark-crop-u268612.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/wechat-crop-u315375.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/rikki-chan-122581-crop-u282725.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/adobestock_107735218%20sin%20rcyle%2096%20drkr-crop-u4486.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/adobestock_73349200%20lq-crop-u241094.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/adobestock_101498911-crop-u267174.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/denys-nevozhai-351730%20small%20dark-crop-u268613.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/wechat-crop-u315376.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/rikki-chan-122581-crop-u282726.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://hubacani.com/work.html</loc>
-    <lastmod>2017-12-07</lastmod>
+    <lastmod>2018-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -185,7 +227,7 @@
   </url>
   <url>
     <loc>http://hubacani.com/people.html</loc>
-    <lastmod>2017-12-07</lastmod>
+    <lastmod>2018-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -212,7 +254,7 @@
   </url>
   <url>
     <loc>http://hubacani.com/inquire.html</loc>
-    <lastmod>2017-12-07</lastmod>
+    <lastmod>2018-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -221,10 +263,25 @@
     <image:image>
       <image:loc>http://hubacani.com/images/noun_1144821_ffffff.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/adobestock_119829016_preview-crop-u70803.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff-crop-u52632.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/adobestock_119829016_preview-crop-u708032.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/adobestock_119829016_preview-crop-u708033.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/adobestock_119829016_preview-crop-u708034.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://hubacani.com/ozmo.html</loc>
-    <lastmod>2017-12-07</lastmod>
+    <lastmod>2018-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -274,6 +331,87 @@
     </image:image>
     <image:image>
       <image:loc>http://hubacani.com/images/noun_1144821_ffffff.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://hubacani.com/marketing-funnel.html</loc>
+    <lastmod>2018-01-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://hubacani.com/images/artboard%201%20copy%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/adobestock_153048598_preview.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/adobestock_156945414_preview%20vert-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/adobestock_119829016_preview.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://hubacani.com/influncer---social.html</loc>
+    <lastmod>2018-01-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://hubacani.com/images/artboard%201%20copy%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff-crop-u13336.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://hubacani.com/digital-presence.html</loc>
+    <lastmod>2018-01-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://hubacani.com/images/artboard%201%20copy%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff-crop-u13336.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://hubacani.com/email---content.html</loc>
+    <lastmod>2018-01-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://hubacani.com/images/artboard%201%20copy%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff-crop-u13336.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://hubacani.com/cultural-adaptation.html</loc>
+    <lastmod>2018-01-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://hubacani.com/images/artboard%201%20copy%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff-crop-u13336.png</image:loc>
     </image:image>
   </url>
 </urlset>
