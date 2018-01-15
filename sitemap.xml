@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://hubacani.com/index.html</loc>
-    <lastmod>2018-01-13</lastmod>
+    <lastmod>2018-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -146,7 +146,7 @@
   </url>
   <url>
     <loc>http://hubacani.com/work.html</loc>
-    <lastmod>2018-01-13</lastmod>
+    <lastmod>2018-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -224,10 +224,13 @@
     <image:image>
       <image:loc>http://hubacani.com/images/noun_1144821_ffffff.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff-crop-u98326.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://hubacani.com/people.html</loc>
-    <lastmod>2018-01-13</lastmod>
+    <lastmod>2018-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -254,7 +257,7 @@
   </url>
   <url>
     <loc>http://hubacani.com/inquire.html</loc>
-    <lastmod>2018-01-13</lastmod>
+    <lastmod>2018-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -264,24 +267,30 @@
       <image:loc>http://hubacani.com/images/noun_1144821_ffffff.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hubacani.com/images/adobestock_119829016_preview-crop-u70803.jpg</image:loc>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff-crop-u98326.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hubacani.com/images/noun_1144821_ffffff-crop-u52632.png</image:loc>
+      <image:loc>http://hubacani.com/images/adobestock_119829016%20small-crop-u70803.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hubacani.com/images/adobestock_119829016_preview-crop-u708032.jpg</image:loc>
+      <image:loc>http://hubacani.com/images/adobestock_119829016%20small-crop-u708032.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hubacani.com/images/adobestock_119829016_preview-crop-u708033.jpg</image:loc>
+      <image:loc>http://hubacani.com/images/adobestock_119829016%20small-crop-u708033.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hubacani.com/images/adobestock_119829016_preview-crop-u708034.jpg</image:loc>
+      <image:loc>http://hubacani.com/images/adobestock_119829016%20small-crop-u708034.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/adobestock_119829016%20small-crop-u708035.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/adobestock_119829016%20small-crop-u708036.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://hubacani.com/ozmo.html</loc>
-    <lastmod>2018-01-13</lastmod>
+    <lastmod>2018-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -335,7 +344,7 @@
   </url>
   <url>
     <loc>http://hubacani.com/marketing-funnel.html</loc>
-    <lastmod>2018-01-13</lastmod>
+    <lastmod>2018-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -356,7 +365,7 @@
   </url>
   <url>
     <loc>http://hubacani.com/influncer---social.html</loc>
-    <lastmod>2018-01-13</lastmod>
+    <lastmod>2018-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -371,7 +380,7 @@
   </url>
   <url>
     <loc>http://hubacani.com/digital-presence.html</loc>
-    <lastmod>2018-01-13</lastmod>
+    <lastmod>2018-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -386,7 +395,7 @@
   </url>
   <url>
     <loc>http://hubacani.com/email---content.html</loc>
-    <lastmod>2018-01-13</lastmod>
+    <lastmod>2018-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -401,7 +410,7 @@
   </url>
   <url>
     <loc>http://hubacani.com/cultural-adaptation.html</loc>
-    <lastmod>2018-01-13</lastmod>
+    <lastmod>2018-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
