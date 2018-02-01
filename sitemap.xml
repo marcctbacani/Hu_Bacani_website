@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://hubacani.com/index.html</loc>
-    <lastmod>2018-01-15</lastmod>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -137,10 +137,16 @@
     <image:image>
       <image:loc>http://hubacani.com/images/rikki-chan-122581-crop-u282726.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/artboard%201%20copy%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://hubacani.com/work.html</loc>
-    <lastmod>2018-01-15</lastmod>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -212,10 +218,49 @@
     <image:image>
       <image:loc>http://hubacani.com/images/wikipedia_mini_globe_handheld-crop-u546104.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/artboard%201%20copy%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff-crop-u98326.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/img_9809-crop-u463155.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/logo-crop-u464135.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/givegab-crop-u462714.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/feiy%20hero480x200.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/wikipedia_mini_globe_handheld-crop-u546105.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/img_9809-crop-u463156.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/logo-crop-u464136.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/givegab-crop-u462715.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/feiy%20hero408x170.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/wikipedia_mini_globe_handheld-crop-u546106.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://hubacani.com/people.html</loc>
-    <lastmod>2018-01-15</lastmod>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -233,10 +278,19 @@
     <image:image>
       <image:loc>http://hubacani.com/images/12321366_10205427149708700_3370172918945011778_n-crop-u560454.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/artboard%201%20copy%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff-crop-u98326.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://hubacani.com/inquire.html</loc>
-    <lastmod>2018-01-15</lastmod>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -257,10 +311,19 @@
     <image:image>
       <image:loc>http://hubacani.com/images/adobestock_119829016%20small-crop-u708036.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/artboard%201%20copy%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff-crop-u98326.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://hubacani.com/ozmo.html</loc>
-    <lastmod>2018-01-15</lastmod>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -308,7 +371,7 @@
   </url>
   <url>
     <loc>http://hubacani.com/marketing-funnel.html</loc>
-    <lastmod>2018-01-15</lastmod>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -320,29 +383,71 @@
     <image:image>
       <image:loc>http://hubacani.com/images/adobestock_119829016_preview.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/artboard%201%20copy%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://hubacani.com/influncer---social.html</loc>
-    <lastmod>2018-01-15</lastmod>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://hubacani.com/images/artboard%201%20copy%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff-crop-u13336.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://hubacani.com/digital-presence.html</loc>
-    <lastmod>2018-01-15</lastmod>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://hubacani.com/images/artboard%201%20copy%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff-crop-u13336.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://hubacani.com/email---content.html</loc>
-    <lastmod>2018-01-15</lastmod>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://hubacani.com/images/artboard%201%20copy%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff-crop-u13336.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://hubacani.com/cultural-adaptation.html</loc>
-    <lastmod>2018-01-15</lastmod>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://hubacani.com/images/artboard%201%20copy%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubacani.com/images/noun_1144821_ffffff-crop-u13336.png</image:loc>
+    </image:image>
   </url>
 </urlset>

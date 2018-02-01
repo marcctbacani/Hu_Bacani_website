@@ -11,116 +11,316 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.museresponsive.js", "require.js", "people.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.watch.js", "jquery.museresponsive.js", "require.js", "people.css"], "outOfDate":[]};
 </script>
   
+  <link rel="shortcut icon" href="images/favicon.ico?crc=179000705"/>
   <title>People</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=405849985"/>
-  <link rel="stylesheet" type="text/css" href="css/people.css?crc=89346364" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master-full-fluid.css?crc=4099289713"/>
+  <link rel="stylesheet" type="text/css" href="css/people.css?crc=3859463329" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/nomq_people.css?crc=381812697" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master-full-fluid.css?crc=3841457083"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_people.css?crc=3853409479" id="nomq_pagesheet"/>
   <![endif]-->
+  <!-- JS includes -->
+  <!--[if lt IE 9]>
+  <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
+  <![endif]-->
+  <script src="https://use.typekit.net/ik/Lc-MJvp6Fv5BsLamQo2kt5d_7eRPfJZIhdVVtqskdEtfeGJgfVYtR3JPH2bXFQ9uwDiLw2BRwhJDjhB8FR9DF2yqFR93ZR4cwDIDjRjk5Q6hFQ9-OfG0-YmKjAFydcq0jhNlOeyujcBRjAoTOcFzdPUaiaS0-YmKjAFydcq0jhNlJ6Tyjaml-AtlSY4zH6GJkCCgIMMjMkMfP6sFiWF8qMYKTvnQgb.js" type="text/javascript"></script>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   try {Typekit.load();} catch(e) {}
+</script>
    </head>
  <body>
 
   <div class="breakpoint active" id="bp_infinity" data-min-width="1281"><!-- responsive breakpoint node -->
-   <div class="clearfix" id="page"><!-- column -->
-    <div class="position_content" id="page_position_content">
-     <div class="clearfix colelem" id="pu56008-4"><!-- group -->
-      <div class="browser_width grpelem" id="u56008-4-bw">
-       <div class="clearfix shared_content" id="u56008-4" data-content-guid="u56008-4_content"><!-- content -->
-        <p id="u56008-2">The Partners</p>
-       </div>
-      </div>
-      <div class="grpelem shared_content" id="u56009" data-content-guid="u56009_content"><!-- simple frame --></div>
-     </div>
-     <div class="clearfix colelem" id="ppu56045"><!-- group -->
-      <div class="clearfix grpelem" id="pu56045"><!-- group -->
-       <div class="clip_frame grpelem" id="u56045"><!-- image -->
-        <img class="block temp_no_img_src" id="u56045_img" data-orig-src="images/12321366_10205427149708700_3370172918945011778_n-crop-u56045.jpg?crc=270879785" alt="" width="374" height="374" src="images/blank.gif?crc=4208392903"/>
-       </div>
-       <div class="clearfix grpelem shared_content" id="u56133" data-content-guid="u56133_content"><!-- group -->
-        <a class="nonblock nontext transition grpelem" id="u56135" href="https://www.linkedin.com/in/marcctbacani/"><!-- simple frame --></a>
-        <a class="nonblock nontext clearfix grpelem" id="u56136-4" href="https://www.linkedin.com/in/marcctbacani/"><!-- content --><p id="u56136-2">Marc Bacani</p></a>
-        <a class="nonblock nontext clearfix grpelem" id="u56134-4" href="https://www.linkedin.com/in/marcctbacani/"><!-- content --><p id="u56134-2">Head of Marketing</p></a>
-       </div>
-      </div>
-      <div class="clip_frame grpelem shared_content" id="u56029" data-content-guid="u56029_content"><!-- image -->
-       <img class="block temp_no_img_src" id="u56029_img" data-orig-src="images/dounan.jpg?crc=3971625013" alt="" width="374" height="374" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clearfix grpelem shared_content" id="u56127" data-content-guid="u56127_content"><!-- group -->
-       <a class="nonblock nontext transition grpelem" id="u56121" href="https://www.linkedin.com/in/dounanhu/"><!-- simple frame --></a>
-       <a class="nonblock nontext clearfix grpelem" id="u56061-4" href="https://www.linkedin.com/in/dounanhu/"><!-- content --><p id="u56061-2">Dounan Hu</p></a>
-       <a class="nonblock nontext clearfix grpelem" id="u56067-4" href="https://www.linkedin.com/in/dounanhu/"><!-- content --><p id="u56067-2">Head of Tech</p></a>
+   <div class="clearfix borderbox" id="page"><!-- group -->
+    <div class="clearfix grpelem" id="pu56008-4"><!-- group -->
+     <div class="browser_width grpelem" id="u56008-4-bw">
+      <div class="clearfix" id="u56008-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+       <p id="u56008-2" class="shared_content" data-content-guid="u56008-2_content">The Partners</p>
       </div>
      </div>
-     <div class="verticalspacer" data-offset-top="595" data-content-above-spacer="594" data-content-below-spacer="485"></div>
+     <div class="grpelem" id="u56009" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu56008-4"><!-- simple frame --></div>
+     <div class="clip_frame grpelem" id="u56029" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu56008-4"><!-- image -->
+      <img class="block temp_no_img_src shared_content" id="u56029_img" data-orig-src="images/dounan.jpg?crc=3971625013" alt="" width="374" height="374" src="images/blank.gif?crc=4208392903" data-content-guid="u56029_img_content"/>
+     </div>
+     <div class="clip_frame grpelem" id="u56045" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu56008-4"><!-- image -->
+      <img class="block temp_no_img_src" id="u56045_img" data-orig-src="images/12321366_10205427149708700_3370172918945011778_n-crop-u56045.jpg?crc=4076945768" alt="" width="374" height="374" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <div class="clearfix grpelem shared_content" id="u56127" data-content-guid="u56127_content"><!-- group -->
+      <a class="nonblock nontext transition grpelem" id="u56121" href="https://www.linkedin.com/in/dounanhu/" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- simple frame --></a>
+      <a class="nonblock nontext clearfix grpelem" id="u56061-4" href="https://www.linkedin.com/in/dounanhu/" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- content --><p id="u56061-2">Dounan Hu</p></a>
+      <a class="nonblock nontext clearfix grpelem" id="u56067-4" href="https://www.linkedin.com/in/dounanhu/" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- content --><p id="u56067-2">Head of Tech</p></a>
+     </div>
+     <div class="clearfix grpelem shared_content" id="u56133" data-content-guid="u56133_content"><!-- group -->
+      <a class="nonblock nontext transition grpelem" id="u56135" href="https://www.linkedin.com/in/marcctbacani/" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- simple frame --></a>
+      <a class="nonblock nontext clearfix grpelem" id="u56136-4" href="https://www.linkedin.com/in/marcctbacani/" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- content --><p id="u56136-2">Marc Bacani</p></a>
+      <a class="nonblock nontext clearfix grpelem" id="u56134-4" href="https://www.linkedin.com/in/marcctbacani/" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- content --><p id="u56134-2">Head of Marketing</p></a>
+     </div>
+     <div class="clearfix grpelem" id="u102674-14" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu56008-4"><!-- content -->
+      <p id="u102674-2" class="shared_content" data-content-guid="u102674-2_content">Hu &amp; Bacani was founded simply on the joy of making cool stuff happen. Marc Bacani and Dounan Hu joined forces after many long conversations about amazing things that can be done by combinating business acumen, tech ingenuity, and design thinking. The partnership brings together 15+ years of combined experience in digital marketing, tech, and entrepreneurship.</p>
+      <p id="u102674-3" class="shared_content" data-content-guid="u102674-3_content">&nbsp;</p>
+      <p id="u102674-5" class="shared_content" data-content-guid="u102674-5_content">Originally from Shanghai, Dounan grew up in the U.S. and Canada, teaching himself how to code from age 13. His love of tech stems from finding solutions for building innovative products. He studied astronomy and physics at Cornell and Cambridge. He has worked with and consulted for many tech startups in the U.S. and China including Wikipedia, Aihehuo, and The Bynar group. One of his greatest passions is building tech solutions for social enterprises - some of his work include tech solutions for GiveGab.com and Feiy.co, and companies under the Acumen Fund.</p>
+      <p id="u102674-6" class="shared_content" data-content-guid="u102674-6_content">&nbsp;</p>
+      <p id="u102674-8" class="shared_content" data-content-guid="u102674-8_content">Marc is a native of Houston and did his bachelors at Austin College in Political Science and Communications. After Texas, he wanted to better understand business on a global scale and studied at Hult International Business School in Shanghai. Interested in innovative marketing from a young age, his passion is in finding a human touch to branding while focusing on core business objectives through a love of analytics. He has worked for and done marketing consultation for companies in Shanghai, Hong Kong, and San Francisco including; Intel, Ozmo, and Avibe.</p>
+      <p id="u102674-9" class="shared_content" data-content-guid="u102674-9_content">&nbsp;</p>
+      <p id="u102674-11" class="shared_content" data-content-guid="u102674-11_content">The partnership started through the Le Wagon community in Shanghai, where both saw a need for digital business and marketing solutions for young companies. Companies that need to provide seamless, beautiful, and conversion-driven journeys for their users.</p>
+      <p id="u102674-12" class="shared_content" data-content-guid="u102674-12_content">&nbsp;</p>
+     </div>
+     <div class="browser_width grpelem shared_content" id="u98296-3-bw" data-content-guid="u98296-3-bw_content">
+      <div class="clearfix shared_content" id="u98296-3" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" data-content-guid="u98296-3_content"><!-- content -->
+       <p>&nbsp;</p>
+      </div>
+     </div>
+     <div class="PamphletWidget clearfix allow_click_through grpelem" id="pamphletu98297" data-visibility="changed" style="visibility:hidden" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu56008-4"><!-- none box -->
+      <div class="popup_anchor allow_click_through grpelem" data-col-pos="0" id="u98298popup">
+       <div class="ContainerGroup clearfix" data-col-pos="0" id="u98298" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- none box -->
+        <div class="Container invi clearfix grpelem" data-col-pos="0" id="u98299" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- group -->
+         <nav class="MenuBar clearfix grpelem" id="menuu98300"><!-- vertical box -->
+          <div class="MenuItemContainer clearfix colelem" id="u98308"><!-- horizontal box -->
+           <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u98309" href="index.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u98312-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p class="shared_content" data-content-guid="u98312-4_0_content">Home</p></div></a>
+          </div>
+          <div class="MenuItemContainer clearfix colelem" id="u98301"><!-- horizontal box -->
+           <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u98302" href="work.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u98304-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p class="shared_content" data-content-guid="u98304-4_0_content">Work</p></div></a>
+          </div>
+          <div class="MenuItemContainer clearfix colelem" id="u98315"><!-- horizontal box -->
+           <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive borderbox clearfix grpelem" id="u98316" href="people.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u98317-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p class="shared_content" data-content-guid="u98317-4_0_content">People</p></div></a>
+          </div>
+          <div class="MenuItemContainer clearfix colelem" id="u99786"><!-- horizontal box -->
+           <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u99789" href="inquire.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u99792-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p class="shared_content" data-content-guid="u99792-4_0_content">Inquire</p></div></a>
+          </div>
+         </nav>
+        </div>
+       </div>
+      </div>
+      <div class="ThumbGroup clearfix grpelem" data-col-pos="1" id="u98324" data-sizePolicy="fluidWidth" data-pintopage="page_fixedRight"><!-- none box -->
+       <div class="popup_anchor allow_click_through grpelem" data-col-pos="0" id="u98325popup">
+        <div class="Thumb popup_element clearfix" data-col-pos="0" id="u98325" data-sizePolicy="fluidWidth" data-pintopage="page_fixedRight"><!-- group -->
+         <div class="clip_frame grpelem" id="u98326"><!-- image -->
+          <img class="block temp_no_img_src" id="u98326_img" data-orig-src="images/noun_1144821_ffffff.png?crc=3811664186" alt="" data-heightwidthratio="1" data-image-width="51" data-image-height="51" src="images/blank.gif?crc=4208392903"/>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <a class="nonblock nontext clip_frame clearfix" id="u98333" href="index.html"><!-- image --><img class="position_content temp_no_img_src shared_content" id="u98333_img" data-orig-src="images/artboard%201%20copy%203.png?crc=4112233994" alt="" width="251" height="61" src="images/blank.gif?crc=4208392903" data-content-guid="u98333_img_content"/></a>
+    <div class="verticalspacer" data-offset-top="968" data-content-above-spacer="1018" data-content-below-spacer="62" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+    <div class="browser_width grpelem shared_content" id="u98332-bw" data-content-guid="u98332-bw_content">
+     <div id="u98332"><!-- group -->
+      <div class="clearfix" id="u98332_align_to_page">
+       <a class="nonblock nontext clearfix grpelem shared_content" id="u98335-4" href="inquire.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-content-guid="u98335-4_content"><!-- content --><p id="u98335-2">Work with us</p></a>
+      </div>
+     </div>
     </div>
    </div>
   </div>
   <div class="breakpoint" id="bp_1280" data-min-width="1025" data-max-width="1280"><!-- responsive breakpoint node -->
-   <div class="clearfix temp_no_id" data-orig-id="page"><!-- group -->
-    <div class="clearfix grpelem" id="ppu56008-4"><!-- column -->
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu56008-4"><!-- group -->
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u56008-4_content"><!-- placeholder node --></span>
-      <span class="grpelem placeholder" data-placeholder-for="u56009_content"><!-- placeholder node --></span>
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pu56008-4"><!-- group -->
+     <div class="clearfix grpelem temp_no_id" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter" data-orig-id="u56008-4"><!-- content -->
+      <span class="placeholder" data-placeholder-for="u56008-2_content"><!-- placeholder node --></span>
      </div>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu56045"><!-- group -->
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u56045"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/12321366_10205427149708700_3370172918945011778_n-crop-u560452.jpg?crc=270879785" alt="" width="374" height="374" data-orig-id="u56045_img" src="images/blank.gif?crc=4208392903"/>
+     <div class="grpelem temp_no_id shared_content" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u56009" data-content-guid="u56009_content"><!-- simple frame --></div>
+     <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u56029"><!-- image -->
+      <span class="block placeholder" data-placeholder-for="u56029_img_content"><!-- placeholder node --></span>
+     </div>
+     <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u56045"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/12321366_10205427149708700_3370172918945011778_n-crop-u560452.jpg?crc=4076945768" alt="" width="374" height="374" data-orig-id="u56045_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <span class="clearfix grpelem placeholder" data-placeholder-for="u56127_content"><!-- placeholder node --></span>
+     <span class="clearfix grpelem placeholder" data-placeholder-for="u56133_content"><!-- placeholder node --></span>
+     <div class="clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u102674-14"><!-- content -->
+      <span class="placeholder" data-placeholder-for="u102674-2_content"><!-- placeholder node --></span>
+      <span class="placeholder" data-placeholder-for="u102674-3_content"><!-- placeholder node --></span>
+      <span class="placeholder" data-placeholder-for="u102674-5_content"><!-- placeholder node --></span>
+      <span class="placeholder" data-placeholder-for="u102674-6_content"><!-- placeholder node --></span>
+      <span class="placeholder" data-placeholder-for="u102674-8_content"><!-- placeholder node --></span>
+      <span class="placeholder" data-placeholder-for="u102674-9_content"><!-- placeholder node --></span>
+      <span class="placeholder" data-placeholder-for="u102674-11_content"><!-- placeholder node --></span>
+      <span class="placeholder" data-placeholder-for="u102674-12_content"><!-- placeholder node --></span>
+     </div>
+     <span class="browser_width grpelem placeholder" data-placeholder-for="u98296-3-bw_content"><!-- placeholder node --></span>
+     <a class="nonblock nontext clip_frame grpelem temp_no_id" href="index.html" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u98333"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/artboard%201%20copy%203.png?crc=4112233994" alt="" width="240" height="59" data-orig-id="u98333_img" src="images/blank.gif?crc=4208392903"/></a>
+     <div class="PamphletWidget clearfix allow_click_through grpelem temp_no_id" data-visibility="changed" style="visibility:hidden" data-orig-id="pamphletu98297"><!-- none box -->
+      <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="0" data-orig-id="u98298popup">
+       <div class="ContainerGroup clearfix temp_no_id" data-col-pos="0" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter" data-orig-id="u98298"><!-- none box -->
+        <div class="Container invi clearfix grpelem temp_no_id" data-col-pos="0" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter" data-orig-id="u98299"><!-- group -->
+         <nav class="MenuBar clearfix grpelem temp_no_id" data-orig-id="menuu98300"><!-- vertical box -->
+          <div class="MenuItemContainer clearfix colelem temp_no_id" data-orig-id="u98308"><!-- horizontal box -->
+           <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="index.html" data-orig-id="u98309"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem temp_no_id" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" data-orig-id="u98312-4"><!-- content --><span class="placeholder" data-placeholder-for="u98312-4_0_content"><!-- placeholder node --></span></div></a>
+          </div>
+          <div class="MenuItemContainer clearfix colelem temp_no_id" data-orig-id="u98301"><!-- horizontal box -->
+           <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="work.html" data-orig-id="u98302"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem temp_no_id" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" data-orig-id="u98304-4"><!-- content --><span class="placeholder" data-placeholder-for="u98304-4_0_content"><!-- placeholder node --></span></div></a>
+          </div>
+          <div class="MenuItemContainer clearfix colelem temp_no_id" data-orig-id="u98315"><!-- horizontal box -->
+           <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive borderbox clearfix grpelem temp_no_id" href="people.html" data-orig-id="u98316"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem temp_no_id" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" data-orig-id="u98317-4"><!-- content --><span class="placeholder" data-placeholder-for="u98317-4_0_content"><!-- placeholder node --></span></div></a>
+          </div>
+          <div class="MenuItemContainer clearfix colelem temp_no_id" data-orig-id="u99786"><!-- horizontal box -->
+           <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="inquire.html" data-orig-id="u99789"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem temp_no_id" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" data-orig-id="u99792-4"><!-- content --><span class="placeholder" data-placeholder-for="u99792-4_0_content"><!-- placeholder node --></span></div></a>
+          </div>
+         </nav>
+        </div>
+       </div>
       </div>
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u56127_content"><!-- placeholder node --></span>
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u56133_content"><!-- placeholder node --></span>
+      <div class="ThumbGroup clearfix grpelem temp_no_id" data-col-pos="1" data-sizePolicy="fluidWidth" data-pintopage="page_fixedRight" data-orig-id="u98324"><!-- none box -->
+       <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="0" data-orig-id="u98325popup">
+        <div class="Thumb popup_element clearfix temp_no_id" data-col-pos="0" data-sizePolicy="fluidWidth" data-pintopage="page_fixedRight" data-orig-id="u98325"><!-- group -->
+         <div class="clip_frame grpelem temp_no_id" data-orig-id="u98326"><!-- image -->
+          <img class="block temp_no_id temp_no_img_src" data-orig-src="images/noun_1144821_ffffff-crop-u98326.png?crc=355632568" alt="" data-heightwidthratio="1" data-image-width="50" data-image-height="50" data-orig-id="u98326_img" src="images/blank.gif?crc=4208392903"/>
+         </div>
+        </div>
+       </div>
+      </div>
      </div>
     </div>
-    <div class="verticalspacer" data-offset-top="687" data-content-above-spacer="687" data-content-below-spacer="79"></div>
-    <span class="clip_frame grpelem placeholder" data-placeholder-for="u56029_content"><!-- placeholder node --></span>
+    <div class="verticalspacer" data-offset-top="1081" data-content-above-spacer="1081" data-content-below-spacer="80" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+    <span class="browser_width grpelem placeholder" data-placeholder-for="u98332-bw_content"><!-- placeholder node --></span>
    </div>
   </div>
   <div class="breakpoint" id="bp_1024" data-min-width="721" data-max-width="1024"><!-- responsive breakpoint node -->
-   <div class="clearfix temp_no_id" data-orig-id="page"><!-- column -->
-    <div class="position_content temp_no_id" data-orig-id="page_position_content">
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <div class="clearfix grpelem" id="ppu56008-4"><!-- column -->
      <div class="clearfix colelem temp_no_id" data-orig-id="pu56008-4"><!-- group -->
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u56008-4_content"><!-- placeholder node --></span>
+      <div class="clearfix grpelem temp_no_id" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter" data-orig-id="u56008-4"><!-- content -->
+       <span class="placeholder" data-placeholder-for="u56008-2_content"><!-- placeholder node --></span>
+      </div>
       <span class="grpelem placeholder" data-placeholder-for="u56009_content"><!-- placeholder node --></span>
+      <div class="clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u102674-14"><!-- content -->
+       <span class="placeholder" data-placeholder-for="u102674-2_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u102674-3_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u102674-5_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u102674-6_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u102674-8_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u102674-9_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u102674-11_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u102674-12_content"><!-- placeholder node --></span>
+      </div>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u98296-3_content"><!-- placeholder node --></span>
+      <a class="nonblock nontext clip_frame grpelem temp_no_id" href="index.html" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u98333"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/artboard%201%20copy%203.png?crc=4112233994" alt="" width="202" height="49" data-orig-id="u98333_img" src="images/blank.gif?crc=4208392903"/></a>
+      <div class="PamphletWidget clearfix allow_click_through grpelem temp_no_id" data-visibility="changed" style="visibility:hidden" data-orig-id="pamphletu98297"><!-- none box -->
+       <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="0" data-orig-id="u98298popup">
+        <div class="ContainerGroup clearfix temp_no_id" data-col-pos="0" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter" data-orig-id="u98298"><!-- none box -->
+         <div class="Container invi clearfix grpelem temp_no_id" data-col-pos="0" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter" data-orig-id="u98299"><!-- group -->
+          <nav class="MenuBar clearfix grpelem temp_no_id" data-orig-id="menuu98300"><!-- vertical box -->
+           <div class="MenuItemContainer clearfix colelem temp_no_id" data-orig-id="u98308"><!-- horizontal box -->
+            <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="index.html" data-orig-id="u98309"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem temp_no_id" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" data-orig-id="u98312-4"><!-- content --><span class="placeholder" data-placeholder-for="u98312-4_0_content"><!-- placeholder node --></span></div></a>
+           </div>
+           <div class="MenuItemContainer clearfix colelem temp_no_id" data-orig-id="u98301"><!-- horizontal box -->
+            <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="work.html" data-orig-id="u98302"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem temp_no_id" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" data-orig-id="u98304-4"><!-- content --><span class="placeholder" data-placeholder-for="u98304-4_0_content"><!-- placeholder node --></span></div></a>
+           </div>
+           <div class="MenuItemContainer clearfix colelem temp_no_id" data-orig-id="u98315"><!-- horizontal box -->
+            <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive borderbox clearfix grpelem temp_no_id" href="people.html" data-orig-id="u98316"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem temp_no_id" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" data-orig-id="u98317-4"><!-- content --><span class="placeholder" data-placeholder-for="u98317-4_0_content"><!-- placeholder node --></span></div></a>
+           </div>
+           <div class="MenuItemContainer clearfix colelem temp_no_id" data-orig-id="u99786"><!-- horizontal box -->
+            <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="inquire.html" data-orig-id="u99789"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem temp_no_id" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" data-orig-id="u99792-4"><!-- content --><span class="placeholder" data-placeholder-for="u99792-4_0_content"><!-- placeholder node --></span></div></a>
+           </div>
+          </nav>
+         </div>
+        </div>
+       </div>
+       <div class="ThumbGroup clearfix grpelem temp_no_id" data-col-pos="1" data-sizePolicy="fluidWidth" data-pintopage="page_fixedRight" data-orig-id="u98324"><!-- none box -->
+        <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="0" data-orig-id="u98325popup">
+         <div class="Thumb popup_element clearfix temp_no_id" data-col-pos="0" data-sizePolicy="fluidWidth" data-pintopage="page_fixedRight" data-orig-id="u98325"><!-- group -->
+          <div class="clip_frame grpelem temp_no_id" data-orig-id="u98326"><!-- image -->
+           <img class="block temp_no_id temp_no_img_src" data-orig-src="images/noun_1144821_ffffff.png?crc=3811664186" alt="" data-heightwidthratio="1" data-image-width="41" data-image-height="41" data-orig-id="u98326_img" src="images/blank.gif?crc=4208392903"/>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
      </div>
-     <div class="clearfix colelem temp_no_id" data-orig-id="ppu56045"><!-- group -->
-      <div class="clearfix grpelem temp_no_id" data-orig-id="pu56045"><!-- group -->
-       <div class="clip_frame grpelem temp_no_id" data-orig-id="u56045"><!-- image -->
-        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/12321366_10205427149708700_3370172918945011778_n-crop-u560453.jpg?crc=3779394826" alt="" width="300" height="300" data-orig-id="u56045_img" src="images/blank.gif?crc=4208392903"/>
+     <div class="clearfix colelem" id="ppu56045"><!-- group -->
+      <div class="clearfix grpelem" id="pu56045"><!-- group -->
+       <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu56045" data-orig-id="u56045"><!-- image -->
+        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/12321366_10205427149708700_3370172918945011778_n-crop-u560453.jpg?crc=3992286536" alt="" width="300" height="300" data-orig-id="u56045_img" src="images/blank.gif?crc=4208392903"/>
        </div>
        <span class="clearfix grpelem placeholder" data-placeholder-for="u56133_content"><!-- placeholder node --></span>
       </div>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u56029"><!-- image -->
+      <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="ppu56045" data-orig-id="u56029"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/dounan.jpg?crc=3971625013" alt="" width="300" height="300" data-orig-id="u56029_img" src="images/blank.gif?crc=4208392903"/>
       </div>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u56127_content"><!-- placeholder node --></span>
      </div>
-     <div class="verticalspacer" data-offset-top="555" data-content-above-spacer="554" data-content-below-spacer="213"></div>
+    </div>
+    <div class="verticalspacer" data-offset-top="912" data-content-above-spacer="912" data-content-below-spacer="62" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="u98332"><!-- group -->
+     <span class="nonblock nontext clearfix grpelem placeholder" data-placeholder-for="u98335-4_content"><!-- placeholder node --></span>
     </div>
    </div>
   </div>
   <div class="breakpoint" id="bp_720" data-max-width="720"><!-- responsive breakpoint node -->
-   <div class="clearfix temp_no_id" data-orig-id="page"><!-- group -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <span class="browser_width placeholder" data-placeholder-for="u98296-3-bw_content"><!-- placeholder node --></span>
     <div class="clearfix grpelem temp_no_id" data-orig-id="ppu56008-4"><!-- column -->
      <div class="clearfix colelem temp_no_id" data-orig-id="pu56008-4"><!-- group -->
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u56008-4_content"><!-- placeholder node --></span>
+      <div class="clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u56008-4"><!-- content -->
+       <span class="placeholder" data-placeholder-for="u56008-2_content"><!-- placeholder node --></span>
+      </div>
       <span class="grpelem placeholder" data-placeholder-for="u56009_content"><!-- placeholder node --></span>
+      <div class="clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u102674-14"><!-- content -->
+       <span class="placeholder" data-placeholder-for="u102674-2_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u102674-3_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u102674-5_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u102674-6_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u102674-8_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u102674-9_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u102674-11_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u102674-12_content"><!-- placeholder node --></span>
+      </div>
+      <a class="nonblock nontext clip_frame grpelem temp_no_id" href="index.html" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u98333"><!-- image --><span class="block placeholder" data-placeholder-for="u98333_img_content"><!-- placeholder node --></span></a>
+      <div class="PamphletWidget clearfix allow_click_through grpelem temp_no_id" data-visibility="changed" style="visibility:hidden" data-orig-id="pamphletu98297"><!-- none box -->
+       <div class="ThumbGroup clearfix colelem temp_no_id" data-col-pos="1" data-sizePolicy="fluidWidth" data-pintopage="page_fixedRight" data-orig-id="u98324"><!-- none box -->
+        <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="0" data-orig-id="u98325popup">
+         <div class="Thumb popup_element clearfix temp_no_id" data-col-pos="0" data-sizePolicy="fixed" data-pintopage="page_fixedRight" data-leftAdjustmentDoneBy="u98325popup" data-orig-id="u98325"><!-- group -->
+          <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fluidWidthHeight" data-pintopage="page_fixedRight" data-orig-id="u98326"><!-- image -->
+           <img class="block temp_no_id temp_no_img_src" data-orig-src="images/noun_1144821_ffffff.png?crc=3811664186" alt="" data-heightwidthratio="1" data-image-width="43" data-image-height="43" data-orig-id="u98326_img" src="images/blank.gif?crc=4208392903"/>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="popup_anchor allow_click_through colelem temp_no_id" data-col-pos="0" data-orig-id="u98298popup">
+        <div class="ContainerGroup clearfix temp_no_id" data-col-pos="0" data-orig-id="u98298"><!-- none box -->
+         <div class="Container invi clearfix grpelem temp_no_id" data-col-pos="0" data-orig-id="u98299"><!-- group -->
+          <nav class="MenuBar clearfix grpelem temp_no_id" data-orig-id="menuu98300"><!-- vertical box -->
+           <div class="MenuItemContainer clearfix colelem temp_no_id" data-orig-id="u98308"><!-- horizontal box -->
+            <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="index.html" data-orig-id="u98309"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem temp_no_id" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" data-orig-id="u98312-4"><!-- content --><span class="placeholder" data-placeholder-for="u98312-4_0_content"><!-- placeholder node --></span></div></a>
+           </div>
+           <div class="MenuItemContainer clearfix colelem temp_no_id" data-orig-id="u98301"><!-- horizontal box -->
+            <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="work.html" data-orig-id="u98302"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem temp_no_id" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" data-orig-id="u98304-4"><!-- content --><span class="placeholder" data-placeholder-for="u98304-4_0_content"><!-- placeholder node --></span></div></a>
+           </div>
+           <div class="MenuItemContainer clearfix colelem temp_no_id" data-orig-id="u98315"><!-- horizontal box -->
+            <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive borderbox clearfix grpelem temp_no_id" href="people.html" data-orig-id="u98316"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem temp_no_id" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" data-orig-id="u98317-4"><!-- content --><span class="placeholder" data-placeholder-for="u98317-4_0_content"><!-- placeholder node --></span></div></a>
+           </div>
+           <div class="MenuItemContainer clearfix colelem temp_no_id" data-orig-id="u99786"><!-- horizontal box -->
+            <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="inquire.html" data-orig-id="u99789"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem temp_no_id" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" data-orig-id="u99792-4"><!-- content --><span class="placeholder" data-placeholder-for="u99792-4_0_content"><!-- placeholder node --></span></div></a>
+           </div>
+          </nav>
+         </div>
+        </div>
+       </div>
+      </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u56127_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem" id="pu56029"><!-- group -->
+      <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu56029" data-orig-id="u56029"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/dounan.jpg?crc=3971625013" alt="" width="322" height="322" data-orig-id="u56029_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u56127_content"><!-- placeholder node --></span>
+     </div>
      <div class="clearfix colelem temp_no_id" data-orig-id="pu56045"><!-- group -->
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u56045"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/12321366_10205427149708700_3370172918945011778_n-crop-u560454.jpg?crc=19373207" alt="" width="322" height="322" data-orig-id="u56045_img" src="images/blank.gif?crc=4208392903"/>
+      <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu56045" data-orig-id="u56045"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/12321366_10205427149708700_3370172918945011778_n-crop-u560454.jpg?crc=360942359" alt="" width="322" height="322" data-orig-id="u56045_img" src="images/blank.gif?crc=4208392903"/>
       </div>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u56133_content"><!-- placeholder node --></span>
      </div>
     </div>
-    <div class="verticalspacer" data-offset-top="975" data-content-above-spacer="975" data-content-below-spacer="62"></div>
-    <div class="clip_frame grpelem temp_no_id" data-orig-id="u56029"><!-- image -->
-     <img class="block temp_no_id temp_no_img_src" data-orig-src="images/dounan.jpg?crc=3971625013" alt="" width="322" height="322" data-orig-id="u56029_img" src="images/blank.gif?crc=4208392903"/>
-    </div>
+    <div class="verticalspacer" data-offset-top="1696" data-content-above-spacer="1695" data-content-below-spacer="62" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+    <span class="browser_width grpelem placeholder" data-placeholder-for="u98332-bw_content"><!-- placeholder node --></span>
    </div>
   </div>
   <!-- Other scripts -->
@@ -134,13 +334,16 @@ var suppressMissingFileError = false
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(f+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(f)):alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.musemenu","webpro","musewpslideshow","jquery.museoverlay","touchswipe","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
+Muse.Utils.resizeHeight('.popup_anchor.allow_click_through');/* resize height */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
+Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1280', '#bp_1024', '#bp_720'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.initWidget('#pamphletu98297', ['#bp_infinity', '#bp_1280', '#bp_1024', '#bp_720'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'loose',event:'click',deactivationEvent:'mouseout_click',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:true,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:true}); });/* #pamphletu98297 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
