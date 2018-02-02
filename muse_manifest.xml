@@ -1,29 +1,29 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hubacani.com" resolutions="1x" timestamp="1517541372841">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hubacani.com" resolutions="1x" timestamp="1517586092130">
   <folder name="css">
     <file name="site_global.css" crc="405849985"/>
-    <file name="inquire.css" crc="4178373456" ref="inquire"/>
-    <file name="nomq_inquire.css" crc="4189508207" ref="inquire"/>
-    <file name="people.css" crc="423340222" ref="people"/>
-    <file name="nomq_people.css" crc="4085253215" ref="people"/>
-    <file name="work.css" crc="4056115656" ref="work"/>
-    <file name="nomq_work.css" crc="474576559" ref="work"/>
-    <file name="index.css" crc="3791951250" ref="index"/>
-    <file name="nomq_index.css" crc="284263045" ref="index"/>
+    <file name="inquire.css" crc="4097562799" ref="inquire"/>
+    <file name="nomq_inquire.css" crc="468494918" ref="inquire"/>
+    <file name="people.css" crc="524659419" ref="people"/>
+    <file name="nomq_people.css" crc="3853409479" ref="people"/>
+    <file name="work.css" crc="463635692" ref="work"/>
+    <file name="nomq_work.css" crc="228411387" ref="work"/>
+    <file name="index.css" crc="4094571083" ref="index"/>
+    <file name="nomq_index.css" crc="535093794" ref="index"/>
     <file name="ozmo.css" crc="3828305815" ref="ozmo"/>
     <file name="nomq_ozmo.css" crc="4073185478" ref="ozmo"/>
-    <file name="influncer---social.css" crc="3767049760" ref="influncer---social"/>
+    <file name="influncer---social.css" crc="388652175" ref="influncer---social"/>
     <file name="nomq_influncer---social.css" crc="3891893719" ref="influncer---social"/>
-    <file name="marketing-funnel.css" crc="516799000" ref="marketing-funnel"/>
-    <file name="digital-presence.css" crc="3767049760" ref="digital-presence"/>
+    <file name="marketing-funnel.css" crc="3995933459" ref="marketing-funnel"/>
+    <file name="digital-presence.css" crc="388652175" ref="digital-presence"/>
     <file name="nomq_digital-presence.css" crc="3891893719" ref="digital-presence"/>
-    <file name="email---content.css" crc="3767049760" ref="email---content"/>
+    <file name="email---content.css" crc="388652175" ref="email---content"/>
     <file name="nomq_email---content.css" crc="3891893719" ref="email---content"/>
-    <file name="cultural-adaptation.css" crc="3767049760" ref="cultural-adaptation"/>
+    <file name="cultural-adaptation.css" crc="388652175" ref="cultural-adaptation"/>
     <file name="nomq_cultural-adaptation.css" crc="3891893719" ref="cultural-adaptation"/>
-    <file name="master_a-master-full-fluid.css" crc="426199394" ref="people:inquire:work"/>
-    <file name="nomq_preview_master_a-master-full-fluid.css" crc="123705004" ref="people:inquire:work"/>
-    <file name="master_a-master.css" crc="370908353" ref="influncer---social:email---content:cultural-adaptation:digital-presence:index:marketing-funnel"/>
-    <file name="nomq_preview_master_a-master.css" crc="524054902" ref="influncer---social:email---content:cultural-adaptation:digital-presence:index:marketing-funnel"/>
+    <file name="master_a-master.css" crc="3854297438" ref="marketing-funnel:index:digital-presence:cultural-adaptation:influncer---social:email---content"/>
+    <file name="nomq_preview_master_a-master.css" crc="4137866141" ref="marketing-funnel:index:digital-presence:cultural-adaptation:influncer---social:email---content"/>
+    <file name="master_a-master-full-fluid.css" crc="4016830668" ref="inquire:work:people"/>
+    <file name="nomq_preview_master_a-master-full-fluid.css" crc="3841457083" ref="inquire:work:people"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:work:people:inquire:ozmo:marketing-funnel:influncer---social:digital-presence:email---content:cultural-adaptation"/>
@@ -34,12 +34,12 @@
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index:work:people:inquire:ozmo:influncer---social:digital-presence:email---content:cultural-adaptation"/>
     <file name="require.js" crc="4157109226" ref="index:work:people:inquire:ozmo:marketing-funnel:influncer---social:digital-presence:email---content:cultural-adaptation"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
-    <file name="webpro.js" crc="242022427" ref="inquire:ozmo:index:work:people:marketing-funnel:influncer---social:digital-presence:email---content:cultural-adaptation"/>
+    <file name="webpro.js" crc="242022427" ref="ozmo:index:work:people:inquire:marketing-funnel:influncer---social:digital-presence:email---content:cultural-adaptation"/>
     <file name="musewpslideshow.js" crc="457073769" ref="ozmo:index:work:people:inquire:marketing-funnel:influncer---social:digital-presence:email---content:cultural-adaptation"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="ozmo:index:work:people:inquire:marketing-funnel:influncer---social:digital-presence:email---content:cultural-adaptation"/>
     <file name="touchswipe.js" crc="4066113679" ref="ozmo:index:work:people:inquire:marketing-funnel:influncer---social:digital-presence:email---content:cultural-adaptation"/>
+    <file name="html5shiv.js" crc="4241844378" ref="ozmo:index:work:people:inquire:marketing-funnel:influncer---social:digital-presence:email---content:cultural-adaptation"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index:work:people:inquire:marketing-funnel:influncer---social:digital-presence:email---content:cultural-adaptation"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:work:people:inquire:ozmo:marketing-funnel:influncer---social:digital-presence:email---content:cultural-adaptation"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index:work:people:inquire:ozmo:influncer---social:digital-presence:email---content:cultural-adaptation"/>
@@ -406,86 +406,6 @@
       <caption webpage="inquire" alt=""/>
     </file>
     <file name="favicon.ico" crc="179000705" ref="index"/>
-    <file name="artboard 1 copy 3.png" crc="4112233994" seo="true" ref="index:work:people:inquire:marketing-funnel:influncer---social:digital-presence:email---content:cultural-adaptation">
-      <caption webpage="cultural-adaptation" alt=""/>
-      <caption webpage="cultural-adaptation" alt=""/>
-      <caption webpage="cultural-adaptation" alt=""/>
-      <caption webpage="cultural-adaptation" alt=""/>
-      <caption webpage="email---content" alt=""/>
-      <caption webpage="email---content" alt=""/>
-      <caption webpage="email---content" alt=""/>
-      <caption webpage="email---content" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="influncer---social" alt=""/>
-      <caption webpage="influncer---social" alt=""/>
-      <caption webpage="influncer---social" alt=""/>
-      <caption webpage="influncer---social" alt=""/>
-      <caption webpage="digital-presence" alt=""/>
-      <caption webpage="digital-presence" alt=""/>
-      <caption webpage="digital-presence" alt=""/>
-      <caption webpage="digital-presence" alt=""/>
-      <caption webpage="marketing-funnel" alt=""/>
-      <caption webpage="inquire" alt=""/>
-      <caption webpage="inquire" alt=""/>
-      <caption webpage="inquire" alt=""/>
-      <caption webpage="inquire" alt=""/>
-      <caption webpage="inquire" alt=""/>
-      <caption webpage="inquire" alt=""/>
-    </file>
-    <file name="noun_1144821_ffffff.png" crc="3811664186" seo="true" ref="index:work:people:inquire:marketing-funnel:influncer---social:digital-presence:email---content:cultural-adaptation">
-      <caption webpage="cultural-adaptation" alt=""/>
-      <caption webpage="cultural-adaptation" alt=""/>
-      <caption webpage="cultural-adaptation" alt=""/>
-      <caption webpage="email---content" alt=""/>
-      <caption webpage="email---content" alt=""/>
-      <caption webpage="email---content" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="influncer---social" alt=""/>
-      <caption webpage="influncer---social" alt=""/>
-      <caption webpage="influncer---social" alt=""/>
-      <caption webpage="digital-presence" alt=""/>
-      <caption webpage="digital-presence" alt=""/>
-      <caption webpage="digital-presence" alt=""/>
-      <caption webpage="marketing-funnel" alt=""/>
-      <caption webpage="inquire" alt=""/>
-      <caption webpage="inquire" alt=""/>
-      <caption webpage="inquire" alt=""/>
-      <caption webpage="inquire" alt=""/>
-      <caption webpage="inquire" alt=""/>
-    </file>
-    <file name="noun_1144821_ffffff-crop-u98326.png" crc="355632568" seo="true" ref="work:people:inquire">
-      <caption webpage="inquire" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="work" alt=""/>
-    </file>
     <file name="img_9809-crop-u463155.jpg" crc="4089016123" seo="true" ref="work">
       <caption webpage="work" alt=""/>
     </file>
@@ -516,21 +436,101 @@
     <file name="wikipedia_mini_globe_handheld-crop-u546106.jpg" crc="4097152417" seo="true" ref="work">
       <caption webpage="work" alt=""/>
     </file>
-    <file name="noun_1144821_ffffff-crop-u13336.png" crc="4048877235" seo="true" ref="influncer---social:digital-presence:email---content:cultural-adaptation">
+    <file name="artboard 1 copy 3.png" crc="4112233994" seo="true" ref="index:work:people:inquire:marketing-funnel:influncer---social:digital-presence:email---content:cultural-adaptation">
+      <caption webpage="marketing-funnel" alt=""/>
       <caption webpage="email---content" alt=""/>
+      <caption webpage="email---content" alt=""/>
+      <caption webpage="email---content" alt=""/>
+      <caption webpage="email---content" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
       <caption webpage="digital-presence" alt=""/>
-      <caption webpage="influncer---social" alt=""/>
+      <caption webpage="digital-presence" alt=""/>
+      <caption webpage="digital-presence" alt=""/>
+      <caption webpage="digital-presence" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="inquire" alt=""/>
+      <caption webpage="inquire" alt=""/>
+      <caption webpage="inquire" alt=""/>
+      <caption webpage="inquire" alt=""/>
+      <caption webpage="inquire" alt=""/>
+      <caption webpage="inquire" alt=""/>
       <caption webpage="cultural-adaptation" alt=""/>
+      <caption webpage="cultural-adaptation" alt=""/>
+      <caption webpage="cultural-adaptation" alt=""/>
+      <caption webpage="cultural-adaptation" alt=""/>
+      <caption webpage="influncer---social" alt=""/>
+      <caption webpage="influncer---social" alt=""/>
+      <caption webpage="influncer---social" alt=""/>
+      <caption webpage="influncer---social" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="noun_1144821_ffffff.png" crc="3811664186" seo="true" ref="index:work:people:inquire:marketing-funnel:influncer---social:digital-presence:email---content:cultural-adaptation">
+      <caption webpage="marketing-funnel" alt=""/>
+      <caption webpage="email---content" alt=""/>
+      <caption webpage="email---content" alt=""/>
+      <caption webpage="email---content" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="digital-presence" alt=""/>
+      <caption webpage="digital-presence" alt=""/>
+      <caption webpage="digital-presence" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="inquire" alt=""/>
+      <caption webpage="inquire" alt=""/>
+      <caption webpage="inquire" alt=""/>
+      <caption webpage="inquire" alt=""/>
+      <caption webpage="inquire" alt=""/>
+      <caption webpage="cultural-adaptation" alt=""/>
+      <caption webpage="cultural-adaptation" alt=""/>
+      <caption webpage="cultural-adaptation" alt=""/>
+      <caption webpage="influncer---social" alt=""/>
+      <caption webpage="influncer---social" alt=""/>
+      <caption webpage="influncer---social" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="noun_1144821_ffffff-crop-u98326.png" crc="355632568" seo="true" ref="work:people:inquire">
+      <caption webpage="inquire" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="noun_1144821_ffffff-crop-u13336.png" crc="4048877235" seo="true" ref="influncer---social:digital-presence:email---content:cultural-adaptation">
+      <caption webpage="cultural-adaptation" alt=""/>
+      <caption webpage="email---content" alt=""/>
+      <caption webpage="influncer---social" alt=""/>
+      <caption webpage="digital-presence" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="383059143" seo="true" mt="1517541358565" redirect="true"/>
-  <file name="work.html" crc="4139753242" seo="true" mt="1517540596730" redirect="true"/>
-  <file name="people.html" crc="4277705777" seo="true" mt="1517540379651" redirect="true"/>
-  <file name="inquire.html" crc="270639606" seo="true" mt="1517540379651" redirect="true"/>
+  <file name="index.html" crc="4272737545" seo="true" mt="1517586060648" redirect="true"/>
+  <file name="work.html" crc="489806309" seo="true" mt="1517586052344" redirect="true"/>
+  <file name="people.html" crc="4140770618" seo="true" mt="1517586052344" redirect="true"/>
+  <file name="inquire.html" crc="4068217682" seo="true" mt="1517586052344" redirect="true"/>
   <file name="ozmo.html" crc="359594571" seo="true" mt="1517457694198" redirect="true"/>
-  <file name="marketing-funnel.html" crc="3927597648" seo="true" mt="1517539864713" redirect="true"/>
-  <file name="influncer---social.html" crc="524908068" seo="true" mt="1517539864713" redirect="true"/>
-  <file name="digital-presence.html" crc="58165566" seo="true" mt="1517539864713" redirect="true"/>
-  <file name="email---content.html" crc="3870245020" seo="true" mt="1517539864713" redirect="true"/>
-  <file name="cultural-adaptation.html" crc="440066949" seo="true" mt="1517539864713" redirect="true"/>
+  <file name="marketing-funnel.html" crc="3901084058" seo="true" mt="1517586052331" redirect="true"/>
+  <file name="influncer---social.html" crc="331858751" seo="true" mt="1517586052331" redirect="true"/>
+  <file name="digital-presence.html" crc="3916693793" seo="true" mt="1517586052331" redirect="true"/>
+  <file name="email---content.html" crc="4043458982" seo="true" mt="1517586052331" redirect="true"/>
+  <file name="cultural-adaptation.html" crc="256206580" seo="true" mt="1517586052331" redirect="true"/>
 </manifest>
